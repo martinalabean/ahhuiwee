@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uuphaiziey.simonmartin.eu/sitemap.xml
